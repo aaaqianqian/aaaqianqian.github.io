@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a student at Sun Yat-sen University. Welcome to my homepage!
+I am a student from Sun Yat-sen University. Welcome to my homepage!
